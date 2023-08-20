@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.io.FileWriter;
 import java.io.IOException;
-
+//s
 public class StaffRegister {
 
     public static void main(String[] args) {
